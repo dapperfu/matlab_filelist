@@ -1,3 +1,4 @@
+```
 matlab_filelist
 ===============
 %FILE_LIST Create list of files
@@ -40,3 +41,4 @@ matlab_filelist
 %       data=load(files{i});
 %       % Do stuff with file
 %   end
+```
